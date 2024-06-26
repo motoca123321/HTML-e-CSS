@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: rgb(255, 254, 187);
+    h1{
+        font-family: cursive ;
+        font-size: 30px;
+        color: rgb(57, 16, 122);
+    }
+    h2{
+        font-family: cursive;
+        font-size: 25px;
+        color: rgb(207, 196, 255);
+    }
+}
